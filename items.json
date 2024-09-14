@@ -1,0 +1,577 @@
+{
+  "helmets": [
+    {
+      "name": "Cleric Cowl",
+      "type": "helmet",
+      "base_ip": 700,
+      "tree": "cloth helmet",
+      "artifact": "none"
+    },
+    {
+      "name": "Cowl of Purity",
+      "type": "helmet",
+      "base_ip": 800,
+      "tree": "cloth helmet",
+      "artifact": "avalonian shard"
+    },
+    {
+      "name": "Cultist Cowl",
+      "type": "helmet",
+      "base_ip": 775,
+      "tree": "cloth helmet",
+      "artifact": "relic"
+    },
+    {
+      "name": "Druid Cowl",
+      "type": "helmet",
+      "base_ip": 725,
+      "tree": "cloth helmet",
+      "artifact": "rune"
+    },
+    {
+      "name": "Feyscale Hat",
+      "type": "helmet",
+      "base_ip": 775,
+      "tree": "cloth helmet",
+      "artifact": "relic"
+    },
+    {
+      "name": "Fiend Cowl",
+      "type": "helmet",
+      "base_ip": 750,
+      "tree": "cloth helmet",
+      "artifact": "soul"
+    },
+    {
+      "name": "Mage Cowl",
+      "type": "helmet",
+      "base_ip": 700,
+      "tree": "cloth helmet",
+      "artifact": "none"
+    },
+    {
+      "name": "Royal Cowl",
+      "type": "helmet",
+      "base_ip": 725,
+      "tree": "cloth helmet",
+      "artifact": "rune"
+    },
+    {
+      "name": "Scholar Cowl",
+      "type": "helmet",
+      "base_ip": 700,
+      "tree": "cloth helmet",
+      "artifact": "none"
+    },
+    {
+      "name": "Assassin Hood",
+      "type": "helmet",
+      "base_ip": 700,
+      "tree": "leather helmet",
+      "artifact": "none"
+    },
+    {
+      "name": "Hellion Hood",
+      "type": "helmet",
+      "base_ip": 750,
+      "tree": "leather helmet",
+      "artifact": "soul"
+    },
+    {
+      "name": "Hood of Tenacity",
+      "type": "helmet",
+      "base_ip": 800,
+      "tree": "leather helmet",
+      "artifact": "avalonian shard"
+    },
+    {
+      "name": "Hunter Hood",
+      "type": "helmet",
+      "base_ip": 700,
+      "tree": "leather helmet",
+      "artifact": "none"
+    },
+    {
+      "name": "Mercenary Hood",
+      "type": "helmet",
+      "base_ip": 700,
+      "tree": "leather helmet",
+      "artifact": "none"
+    },
+    {
+      "name": "Mistwalker Hood",
+      "type": "helmet",
+      "base_ip": 775,
+      "tree": "leather helmet",
+      "artifact": "relic"
+    },
+    {
+      "name": "Royal Hood",
+      "type": "helmet",
+      "base_ip": 725,
+      "tree": "leather helmet",
+      "artifact": "rune"
+    },
+    {
+      "name": "Specter Hood",
+      "type": "helmet",
+      "base_ip": 775,
+      "tree": "leather helmet",
+      "artifact": "relic"
+    },
+    {
+      "name": "Stalker Hood",
+      "type": "helmet",
+      "base_ip": 725,
+      "tree": "leather helmet",
+      "artifact": "rune"
+    },
+    {
+      "name": "Demon Helmet",
+      "type": "helmet",
+      "base_ip": 750,
+      "tree": "plate helmet",
+      "artifact": "soul"
+    },
+    {
+      "name": "Duskweaver Helmet",
+      "type": "helmet",
+      "base_ip": 775,
+      "tree": "plate helmet",
+      "artifact": "relic"
+    },
+    {
+      "name": "Graveguard Helmet",
+      "type": "helmet",
+      "base_ip": 725,
+      "tree": "plate helmet",
+      "artifact": "rune"
+    },
+    {
+      "name": "Guardian Helmet",
+      "type": "helmet",
+      "base_ip": 700,
+      "tree": "plate helmet",
+      "artifact": "none"
+    },
+    {
+      "name": "Helmet of Valor",
+      "type": "helmet",
+      "base_ip": 800,
+      "tree": "plate helmet",
+      "artifact": "avalonian shard"
+    },
+    {
+      "name": "Judicator Helmet",
+      "type": "helmet",
+      "base_ip": 775,
+      "tree": "plate helmet",
+      "artifact": "relic"
+    },
+    {
+      "name": "Knight Helmet",
+      "type": "helmet",
+      "base_ip": 700,
+      "tree": "plate helmet",
+      "artifact": "none"
+    },
+    {
+      "name": "Royal Helmet",
+      "type": "helmet",
+      "base_ip": 725,
+      "tree": "plate helmet",
+      "artifact": "rune"
+    },
+    {
+      "name": "Soldier Helmet",
+      "type": "helmet",
+      "base_ip": 700,
+      "tree": "plate helmet",
+      "artifact": "none"
+    }
+  ],
+  "armors": [
+    {
+      "name": "Cleric Robe",
+      "type": "armor",
+      "base_ip": 700,
+      "tree": "cloth armor",
+      "artifact": "none"
+    },
+    {
+      "name": "Cultist Robe",
+      "type": "armor",
+      "base_ip": 775,
+      "tree": "cloth armor",
+      "artifact": "relic"
+    },
+    {
+      "name": "Druid Robe",
+      "type": "armor",
+      "base_ip": 725,
+      "tree": "cloth armor",
+      "artifact": "rune"
+    },
+    {
+      "name": "Feyscale Robe",
+      "type": "armor",
+      "base_ip": 775,
+      "tree": "cloth armor",
+      "artifact": "relic"
+    },
+    {
+      "name": "Fiend Robe",
+      "type": "armor",
+      "base_ip": 750,
+      "tree": "cloth armor",
+      "artifact": "soul"
+    },
+    {
+      "name": "Mage Robe",
+      "type": "armor",
+      "base_ip": 700,
+      "tree": "cloth armor",
+      "artifact": "none"
+    },
+    {
+      "name": "Robe of Purity",
+      "type": "armor",
+      "base_ip": 800,
+      "tree": "cloth armor",
+      "artifact": "avalonian shard"
+    },
+    {
+      "name": "Royal Robe",
+      "type": "armor",
+      "base_ip": 725,
+      "tree": "cloth armor",
+      "artifact": "rune"
+    },
+    {
+      "name": "Scholar Robe",
+      "type": "armor",
+      "base_ip": 700,
+      "tree": "cloth armor",
+      "artifact": "none"
+    },
+    {
+      "name": "Assassin Jacket",
+      "type": "armor",
+      "base_ip": 700,
+      "tree": "leather armor",
+      "artifact": "none"
+    },
+    {
+      "name": "Hellion Jacket",
+      "type": "armor",
+      "base_ip": 750,
+      "tree": "leather armor",
+      "artifact": "soul"
+    },
+    {
+      "name": "Hunter Jacket",
+      "type": "armor",
+      "base_ip": 700,
+      "tree": "leather armor",
+      "artifact": "none"
+    },
+    {
+      "name": "Jacket of Tenacity",
+      "type": "armor",
+      "base_ip": 800,
+      "tree": "leather armor",
+      "artifact": "avalonian shard"
+    },
+    {
+      "name": "Mercenary Jacket",
+      "type": "armor",
+      "base_ip": 700,
+      "tree": "leather armor",
+      "artifact": "none"
+    },
+    {
+      "name": "Mistwalker Jacket",
+      "type": "armor",
+      "base_ip": 775,
+      "tree": "leather armor",
+      "artifact": "relic"
+    },
+    {
+      "name": "Royal Jacket",
+      "type": "armor",
+      "base_ip": 725,
+      "tree": "leather armor",
+      "artifact": "rune"
+    },
+    {
+      "name": "Specter Jacket",
+      "type": "armor",
+      "base_ip": 775,
+      "tree": "leather armor",
+      "artifact": "relic"
+    },
+    {
+      "name": "Stalker Jacket",
+      "type": "armor",
+      "base_ip": 725,
+      "tree": "leather armor",
+      "artifact": "rune"
+    },
+    {
+      "name": "Armor of Valor",
+      "type": "armor",
+      "base_ip": 800,
+      "tree": "plate armor",
+      "artifact": "avalonian shard"
+    },
+    {
+      "name": "Demon Armor",
+      "type": "armor",
+      "base_ip": 750,
+      "tree": "plate armor",
+      "artifact": "soul"
+    },
+    {
+      "name": "Graveguard Armor",
+      "type": "armor",
+      "base_ip": 725,
+      "tree": "plate armor",
+      "artifact": "rune"
+    },
+    {
+      "name": "Guardian Armor",
+      "type": "armor",
+      "base_ip": 700,
+      "tree": "plate armor",
+      "artifact": "none"
+    },
+    {
+      "name": "Judicator Armor",
+      "type": "armor",
+      "base_ip": 775,
+      "tree": "plate armor",
+      "artifact": "relic"
+    },
+    {
+      "name": "Knight Armor",
+      "type": "armor",
+      "base_ip": 700,
+      "tree": "plate armor",
+      "artifact": "none"
+    },
+    {
+      "name": "Royal Armor",
+      "type": "armor",
+      "base_ip": 725,
+      "tree": "plate armor",
+      "artifact": "rune"
+    },
+    {
+      "name": "Soldier Armor",
+      "type": "armor",
+      "base_ip": 700,
+      "tree": "plate armor",
+      "artifact": "none"
+    },
+    {
+      "name": "Duskweaver Armor",
+      "type": "armor",
+      "base_ip": 775,
+      "tree": "plate armor",
+      "artifact": "relic"
+    }
+  ],
+  "shoes": [
+    {
+      "name": "Cleric Sandals",
+      "type": "shoes",
+      "base_ip": 700,
+      "tree": "cloth shoes",
+      "artifact": "none"
+    },
+    {
+      "name": "Cultist Sandals",
+      "type": "shoes",
+      "base_ip": 775,
+      "tree": "cloth shoes",
+      "artifact": "relic"
+    },
+    {
+      "name": "Druid Sandals",
+      "type": "shoes",
+      "base_ip": 725,
+      "tree": "cloth shoes",
+      "artifact": "rune"
+    },
+    {
+      "name": "Feyscale Sandals",
+      "type": "shoes",
+      "base_ip": 775,
+      "tree": "cloth shoes",
+      "artifact": "relic"
+    },
+    {
+      "name": "Fiend Sandals",
+      "type": "shoes",
+      "base_ip": 750,
+      "tree": "cloth shoes",
+      "artifact": "soul"
+    },
+    {
+      "name": "Mage Sandals",
+      "type": "shoes",
+      "base_ip": 700,
+      "tree": "cloth shoes",
+      "artifact": "none"
+    },
+    {
+      "name": "Royal Sandals",
+      "type": "shoes",
+      "base_ip": 725,
+      "tree": "cloth shoes",
+      "artifact": "rune"
+    },
+    {
+      "name": "Sandals of Purity",
+      "type": "shoes",
+      "base_ip": 800,
+      "tree": "cloth shoes",
+      "artifact": "avalonian shard"
+    },
+    {
+      "name": "Scholar Sandals",
+      "type": "shoes",
+      "base_ip": 700,
+      "tree": "cloth shoes",
+      "artifact": "none"
+    },
+    {
+      "name": "Assassin Shoes",
+      "type": "shoes",
+      "base_ip": 700,
+      "tree": "leather shoes",
+      "artifact": "none"
+    },
+    {
+      "name": "Hellion Shoes",
+      "type": "shoes",
+      "base_ip": 750,
+      "tree": "leather shoes",
+      "artifact": "soul"
+    },
+    {
+      "name": "Hunter Shoes",
+      "type": "shoes",
+      "base_ip": 700,
+      "tree": "leather shoes",
+      "artifact": "none"
+    },
+    {
+      "name": "Mercenary Shoes",
+      "type": "shoes",
+      "base_ip": 700,
+      "tree": "leather shoes",
+      "artifact": "none"
+    },
+    {
+      "name": "Mistwalker Shoes",
+      "type": "shoes",
+      "base_ip": 775,
+      "tree": "leather shoes",
+      "artifact": "relic"
+    },
+    {
+      "name": "Royal Shoes",
+      "type": "shoes",
+      "base_ip": 725,
+      "tree": "leather shoes",
+      "artifact": "rune"
+    },
+    {
+      "name": "Shoes of Tenacity",
+      "type": "shoes",
+      "base_ip": 800,
+      "tree": "leather shoes",
+      "artifact": "avalonian shard"
+    },
+    {
+      "name": "Specter Shoes",
+      "type": "shoes",
+      "base_ip": 775,
+      "tree": "leather shoes",
+      "artifact": "relic"
+    },
+    {
+      "name": "Stalker Shoes",
+      "type": "shoes",
+      "base_ip": 725,
+      "tree": "leather shoes",
+      "artifact": "rune"
+    },
+    {
+      "name": "Boots of Valor",
+      "type": "shoes",
+      "base_ip": 800,
+      "tree": "leather shoes",
+      "artifact": "rune"
+    },
+    {
+      "name": "Demon Boots",
+      "type": "shoes",
+      "base_ip": 750,
+      "tree": "leather shoes",
+      "artifact": "rune"
+    },
+    {
+      "name": "Duskweaver Boots",
+      "type": "shoes",
+      "base_ip": 775,
+      "tree": "leather shoes",
+      "artifact": "rune"
+    },
+    {
+      "name": "Graveguard Boots",
+      "type": "shoes",
+      "base_ip": 725,
+      "tree": "leather shoes",
+      "artifact": "rune"
+    },
+    {
+      "name": "Guardian Boots",
+      "type": "shoes",
+      "base_ip": 700,
+      "tree": "leather shoes",
+      "artifact": "rune"
+    },
+    {
+      "name": "Judicator Boots",
+      "type": "shoes",
+      "base_ip": 775,
+      "tree": "leather shoes",
+      "artifact": "rune"
+    },
+    {
+      "name": "Knight Boots",
+      "type": "shoes",
+      "base_ip": 700,
+      "tree": "leather shoes",
+      "artifact": "rune"
+    },
+    {
+      "name": "Royal Boots",
+      "type": "shoes",
+      "base_ip": 725,
+      "tree": "leather shoes",
+      "artifact": "rune"
+    },
+    {
+      "name": "Soldier Boots",
+      "type": "shoes",
+      "base_ip": 700,
+      "tree": "leather shoes",
+      "artifact": "rune"
+    }
+  ],
+  "weapons": [],
+  "offhands": []
+}
